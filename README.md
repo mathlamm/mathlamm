@@ -13,7 +13,7 @@ With a strong interest in coding and data science, I bring a unique perspective 
 Now, I'm eager to channel my coding and data science expertise into the realm of digital health. My goal is to merge my medical background with technological advancements to drive impactful change in healthcare. Let's connect and explore how we can innovate together to revolutionize patient care in the digital age!
 
 ### Projects 
-Here you find my **[Data Science projects](https://github.com/mathlamm/Data-Science-Portfolio)**
+#### Here you find my **[[Data Science projects]](https://github.com/mathlamm/Data-Science-Portfolio)**
 
 
 ### Languages and Tools
