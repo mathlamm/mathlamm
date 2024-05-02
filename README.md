@@ -25,4 +25,4 @@ Now, I'm eager to channel my coding and data science expertise into the realm of
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### Contact me
-via **[LinkedIn](https://www.linkedin.com/in/mathis-lammert-9418a2263/)** or **[mail](mailto:mathislammert@gmail.com)**
+via **[LinkedIn](https://www.linkedin.com/in/mathis-lammert/)** or **[mail](mailto:mathislammert@gmail.com)**
